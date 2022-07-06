@@ -14,7 +14,7 @@ public class Main {
         set.add(Car2);
 
         System.out.println("In my shop 'SET' i have:\n"
-                + set + "\n------------------------");
+                + set + "\n-----------------------");
 
         System.out.println("Equals of Porsche and Mercedes: " + Objects.equals(Car2, Car));
         System.out.println("Equals of Mercedes and Kawasaki: " + Objects.equals(Car2,Bike)
